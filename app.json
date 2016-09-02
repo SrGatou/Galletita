@@ -1,0 +1,16 @@
+{
+  "name": "Galletita",
+  "description": "Discord test bot",
+  "scripts": {
+  },
+  "env": {
+  },
+  "formation": {
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ]
+}
